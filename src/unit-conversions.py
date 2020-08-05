@@ -46,8 +46,7 @@ class Conversions:
         single_unit_final_num = (coef * 10 ** exponent)
         result = (single_unit_final_num / avo_num)
         answer = (
-            f'{result:.{sig_figs}e} moles')  # ---------------------------------------------------------EDIT THIS,
-        # DO NOT WANT SCI NOTATION
+            f'{result:.{sig_figs}e} moles') 
         return answer
 
 
