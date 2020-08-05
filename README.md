@@ -1,4 +1,4 @@
-![Inline docs](http://inch-ci.org/github/{Atom-Discord}/{atom-py}.svg?branch=master)](http://inch-ci.org/github/{Atom-Discord}/{atom-py})
+[![Python version](https://img.shields.io/node/v/[3.8].svg?style=flat)](http://nodejs.org/download/)
 # Atom
 
 Atom is a discord bot written in Python for chemistry calculations and help.
