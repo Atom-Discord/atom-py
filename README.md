@@ -18,7 +18,7 @@ Atom (under development) can currently solve stoichiometric problems as well as 
 
 >ytsearch Ex. -ytsearch Machine Learning verbose=2
 
->standards conversions 
+>standard conversions 
     > mass-to-moles
     > mass-to-units
     > moles_to_mass
