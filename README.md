@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
 # Atom
 
 Atom is a discord bot written in Python for chemistry calculations and help.
