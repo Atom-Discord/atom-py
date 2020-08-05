@@ -1,4 +1,4 @@
-[![Python version](https://img.shields.io/python/v/[3.8].svg?style=flat)](http://nodejs.org/download/)
+[![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
 # Atom
 
 Atom is a discord bot written in Python for chemistry calculations and help.
