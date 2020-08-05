@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
+[![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{sam-shridhar1950f}/{atom-py})
 # Atom
 
 Atom is a discord bot written in Python for chemistry calculations and help.
