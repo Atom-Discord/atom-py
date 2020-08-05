@@ -1,7 +1,7 @@
 [![HitCount](http://hits.dwyl.com/{sam-shridhar1950f}/{atom-py}.svg)](http://hits.dwyl.com/{sam-shridhar1950f}/{atom-py})
 # Atom
 
-Atom is a discord bot written in Python for chemistry calculations and help.
+Atom is a discord bot written in Python for chemistry calculations and questions.
 
 
 # Description
