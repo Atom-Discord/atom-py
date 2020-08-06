@@ -17,13 +17,13 @@ Atom (under development) can currently solve stoichiometric problems as well as 
 | Command  | Category | Aliases          | Usage                                                         | Description                                        |
 |----------|----------|------------------|---------------------------------------------------------------|----------------------------------------------------|
   stoichiometry   | Utility  | n/a              | Ex: `n!help`                                                    | Shows all possible standard commands for this bot  |
-| info     | Utility  | n/a              | Ex: `n!info`                                                    | Shows Nayu's information                           |
-| helpMod  | Utility  | n/a              | Ex: `n!helpmod`                                                 | Shows all possible moderator commands for this bot |
-| helpNsfw | Utility  | n/a              | Ex: `n!helpnsfw`                                                | Shows all possible NSFW Commands for this bot      |
-| command  | Utility  | n/a              | `n!command <command you want to search up>` Ex: `n!command stats` | Shows what a specific command does and the usage   |
-| nayuLink | Utility  | serverinvitelink | Ex: `n!Nayulink`                                                | Provides Nayu's server invite link                 |
-|          |          |                  |                                                               |                                                    |
-|          |          |                  |                                                               |   
+| balance     | Utility  | n/a              | Ex: `n!info`                                                    | Shows Nayu's information                           |
+| search  | Utility  | n/a              | Ex: `n!helpmod`                                                 | Shows all possible moderator commands for this bot |
+| mass_to_moles | Utility  | n/a              | Ex: `n!helpnsfw`                                                | Shows all possible NSFW Commands for this bot      |
+| mass-to-units  | Utility  | n/a              | `n!command <command you want to search up>` Ex: `n!command stats` | Shows what a specific command does and the usage   |
+| nits-to-mass | Utility  | serverinvitelink | Ex: `n!Nayulink`                                                | Provides Nayu's server invite link                 |
+| moles_to_mass     |          |                  |                                                               |                                                    |
+| units-to-moles      |          |                  |                                                               |   
 
 
 
