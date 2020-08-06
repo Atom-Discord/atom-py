@@ -20,7 +20,7 @@ Atom (under development) can currently solve stoichiometric problems as well as 
 | balance     | Utility  | n/a              | Ex: `-balance`                                                    | Balances chemical equations.                           |
 | search  | Utility  | n/a              | Ex: `-search`                                                 | Brings up list of YouTube links based off query. |
 | mass_to_moles | Utility  | n/a              | Ex: `-mass_to_moles`                                                | Converts mass to moles.      |
-| mass_to_units  | Utility  | n/a              | `-mass_to_units`                                                  | Converts mass to units.   |
+| mass_to_units  | Utility  | n/a              | Ex: `-mass_to_units`                                                  | Converts mass to units.   |
 | units_to_mass | Utility  | n/a | Ex: `-units_to_mass`                                                | Converts units to mass.                 |
 | moles_to_mass     |     Utility     |       n/a        |                          Ex: `-units_to_mass`                                       |            Converts moles to mass.                                        |
 | units-to-moles      |     Utility     |       n/a          |                           Ex: `-units_to_moles`                                     |   Converts units to moles.
