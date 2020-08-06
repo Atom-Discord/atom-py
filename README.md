@@ -16,14 +16,14 @@ Atom (under development) can currently solve stoichiometric problems as well as 
 ### Commands: 
 | Command  | Category | Aliases          | Usage                                                         | Description                                        |
 |----------|----------|------------------|---------------------------------------------------------------|----------------------------------------------------|
-  stoichiometry   | Utility  | n/a              | Ex: `n!help`                                                    | Performs stoichiometric operations.  |
-| balance     | Utility  | n/a              | Ex: `n!info`                                                    | Balances chemical equations.                           |
-| search  | Utility  | n/a              | Ex: `n!helpmod`                                                 | Brings up list of YouTube links based off query. |
-| mass_to_moles | Utility  | n/a              | Ex: `n!helpnsfw`                                                | Converts mass to moles.      |
-| mass-to-units  | Utility  | n/a              | `n!command <command you want to search up>` Ex: `n!command stats` | Converts mass to units.   |
-| units-to-mass | Utility  | serverinvitelink | Ex: `n!Nayulink`                                                | Converts units to mass.                 |
-| moles_to_mass     |          |                  |                                                               |            Converts moles to mass.                                        |
-| units-to-moles      |          |                  |                                                               |   Converts units to moles.
+  stoichiometry   | Utility  | n/a              | Ex: `-stoichiometry`                                                    | Performs stoichiometric operations.  |
+| balance     | Utility  | n/a              | Ex: `-balance`                                                    | Balances chemical equations.                           |
+| search  | Utility  | n/a              | Ex: `-search`                                                 | Brings up list of YouTube links based off query. |
+| mass_to_moles | Utility  | n/a              | Ex: `-mass_to_moles`                                                | Converts mass to moles.      |
+| mass_to_units  | Utility  | n/a              | `-mass_to_units`                                                  | Converts mass to units.   |
+| units_to_mass | Utility  | n/a | Ex: `-units_to_mass`                                                | Converts units to mass.                 |
+| moles_to_mass     |     Utility     |     Ex: `-units_to_mass`            |                                                               |            Converts moles to mass.                                        |
+| units-to-moles      |     Utility     |       n/a          |                           Ex: `-units_to_moles`                                     |   Converts units to moles.
 
 
 
