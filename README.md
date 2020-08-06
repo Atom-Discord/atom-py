@@ -13,6 +13,20 @@ Atom (under development) can currently solve stoichiometric problems as well as 
 
 
 
+### Commands: 
+| Command  | Category | Aliases          | Usage                                                         | Description                                        |
+|----------|----------|------------------|---------------------------------------------------------------|----------------------------------------------------|
+| help     | Utility  | n/a              | Ex: `n!help`                                                    | Shows all possible standard commands for this bot  |
+| info     | Utility  | n/a              | Ex: `n!info`                                                    | Shows Nayu's information                           |
+| helpMod  | Utility  | n/a              | Ex: `n!helpmod`                                                 | Shows all possible moderator commands for this bot |
+| helpNsfw | Utility  | n/a              | Ex: `n!helpnsfw`                                                | Shows all possible NSFW Commands for this bot      |
+| command  | Utility  | n/a              | `n!command <command you want to search up>` Ex: `n!command stats` | Shows what a specific command does and the usage   |
+| nayuLink | Utility  | serverinvitelink | Ex: `n!Nayulink`                                                | Provides Nayu's server invite link                 |
+|          |          |                  |                                                               |                                                    |
+|          |          |                  |                                                               |   
+
+
+
 ## Existing Commands (WIP)
 
 ```python
