@@ -1,5 +1,7 @@
 [![HitCount](http://hits.dwyl.com/{sam-shridhar1950f}/{atom-py}.svg)](http://hits.dwyl.com/{sam-shridhar1950f}/{atom-py})
-![Atom](logo.png)
+<p align="center">
+  <img src="logo.png" alt="Atom"/>
+</p>
 # Atom
 
 Atom is a discord bot written in Python for chemistry calculations and questions.
