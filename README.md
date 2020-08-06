@@ -16,7 +16,7 @@ Atom (under development) can currently solve stoichiometric problems as well as 
 ### Commands: 
 | Command  | Category | Aliases          | Usage                                                         | Description                                        |
 |----------|----------|------------------|---------------------------------------------------------------|----------------------------------------------------|
-| help     | Utility  | n/a              | Ex: `n!help`                                                    | Shows all possible standard commands for this bot  |
+  stoichiometry   | Utility  | n/a              | Ex: `n!help`                                                    | Shows all possible standard commands for this bot  |
 | info     | Utility  | n/a              | Ex: `n!info`                                                    | Shows Nayu's information                           |
 | helpMod  | Utility  | n/a              | Ex: `n!helpmod`                                                 | Shows all possible moderator commands for this bot |
 | helpNsfw | Utility  | n/a              | Ex: `n!helpnsfw`                                                | Shows all possible NSFW Commands for this bot      |
