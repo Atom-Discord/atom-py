@@ -1,8 +1,5 @@
 import discord
 from discord.ext import commands
-from youtubesearchpython import SearchVideos
-from ast import literal_eval
-import asyncio
 from equation import Equation
 
 class stoich(commands.Cog):
