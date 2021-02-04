@@ -310,4 +310,4 @@ async def proto(ctx, mass, coefA, coefB, element1, element2):
 #     mass_to_mass = (known_mass * coefB) * (mmB) / (mmA * coefA)
 #     await ctx.send(f'{round(mass_to_mass, 2)} grams of {unknown_element}')
 
-client.run("NzQwMzI0OTEyNzk5MTU0MTc2.XynXTQ.cej4mq5khr3p8xwau6eCS6GKAYA")
+client.run("XXXX")
